@@ -4,12 +4,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amol Lende LinkedIn" height="30" width="40" />
 </a>
 
-<a href="https://x.com/Tushar__3612" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tushar__3612 Twitter" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/tushar__3612/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tushar Nagare Instagram" height="30" width="40" />
-</a>
+ 
 
 ---
 
@@ -54,10 +49,8 @@ I am a **Computer Engineering Student** passionate about **programming, technolo
 
 ### 📊 GitHub Stats
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusshar123&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusshar123&layout=compact&theme=radical)](https://github.com/Tusshar123)
-
+<!-- Amol's GitHub Stats -->
+[Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amollende12&show_icons=true&theme=radical)
 ---
 
 ### 🏆 Achievements:
@@ -69,8 +62,7 @@ I am a **Computer Engineering Student** passionate about **programming, technolo
 
 ### 🔗 Connect with Me:
 
-- <a href="https://www.linkedin.com/in/tushar-nagare-5a17b9287/" target="_blank">LinkedIn</a>  
-- <a href="https://x.com/Tushar__3612" target="_blank">Twitter</a>  
-- <a href="https://www.instagram.com/tushar__3612/" target="_blank">Instagram</a>
+<a href="https://www.linkedin.com/in/amol-lende-247b57288/" target="_blank">
+
 
 Let's collaborate and create amazing solutions together!
