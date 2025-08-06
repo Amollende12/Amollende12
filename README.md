@@ -1,8 +1,9 @@
 # Welcome to [Amol Lende](https:///Amollende12/) profile!  
 
-<a href="(https://www.linkedin.com/in/amol-lende-247b57288/)/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tushar Nagare LinkedIn" height="30" width="40" />
+<a href="https://www.linkedin.com/in/amol-lende-247b57288/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amol Lende LinkedIn" height="30" width="40" />
 </a>
+
 <a href="https://x.com/Tushar__3612" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tushar__3612 Twitter" height="30" width="40" />
 </a>
