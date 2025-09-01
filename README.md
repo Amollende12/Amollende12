@@ -1,68 +1,157 @@
-# Welcome to [Amol Lende](https:///Amollende12/) profile!  
+<!--Header Image --->
+<p align="center">
+  <img src="Assets/Photo.jpeg">
+</p>
 
-<a href="https://www.linkedin.com/in/amol-lende-247b57288/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amol Lende LinkedIn" height="30" width="40" />
-</a>
+<!--Welcome Prompt --->
+<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Amol%20Lende&fontSize=42&fontAlignY=35&color=gradient&customColorList=3&section=header&reversal=false&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20DSA&descAlignY=55&descSize=16&stroke=0&strokeWidth=0&animation=fadeIn&gradientFrom=C1E8DA&gradientTo=264E70&fontColor=0C2233" />
+</p>
 
+###  About Me  <img  src="Assets/stats.gif" height="35"/>
+
+I am Amol, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech enthusiast and an active learner from [Maharashtra, India 🌍](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). Currently seeking opportunities to explore this unreal realm of Tech. I see myself as a student fueled by continuous learning, innovative ideas and hard work. Aiming to be great at this field !!
+
+</div>
+<img src="Assets/CLine.gif">
  
 
+<!-- ====== TECH STACK ====== -->
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
+
+<div align=center>
+
+<p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Amollende12&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Amollende12&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+</p>
+  
+<p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Amollende12&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" width="40%"/> 
+</p>
+
+<img src="Assets/CLine.gif">
+
+<h2 align="center"><img src="Assets/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assets/Follow.gif" alt="Robot" width="45"/></h2>
+
+<div id="header" align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Amollende12&style=for-the-badge&color=00bfbf&label=Profile+Views" alt="Profile Views"/>
+  
+  <!-- Total Contributions Counter -->
+  <img src="https://img.shields.io/badge/Total%20Contributions-1.2k+-00bfbf?style=for-the-badge&logo=github" alt="Total Contributions"/>
+</div>
+
+<p align="center">
+  <!-- GitHub Stars -->
+  <a href="https://github.com/Amollende12?tab=repositories&sort=stargazers">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Amollende12?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
+  </a>
+  
+  <!-- GitHub Followers -->
+  <a href="https://github.com/Amollende12?tab=followers">
+    <img src="https://img.shields.io/github/followers/Amollende12?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" />
+  </a>
+  
+  <!-- Repository Count -->
+  <a href="https://github.com/Amollende12?tab=repositories">
+    <img alt="GitHub Repositories" src="https://img.shields.io/badge/Repositories-15+-00bfbf?style=for-the-badge&logo=github&labelColor=008b8b" />
+  </a>
+</p>
+
+<!-- Contribution Metrics -->
+<div align="center">
+  
+  <!-- Last year contributions -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amollende12&theme=react-dark&hide_border=true&area=true&custom_title=Last%20Year%20Contributions" width="95%"/>
+  
+  <!-- Contribution stats -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Amollende12&show_icons=true&locale=en&theme=react&hide_border=true" alt="Amollende12" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amollende12&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Amollende12" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="Assets/CLine.gif">
+
+<!-- Snake animation -->
+<img src="Assets/github-snake.svg">
+
+ ## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amol-lende/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://x.com/Amollende12"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="mailto:amollende12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.instagram.com/amollende12/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+</p>
+
 ---
-
-## Glad to see you here!
-
-I am a **Computer Engineering Student** passionate about **programming, technology**, and **problem-solving**. I aim to leverage my skills in software development and engineering to build impactful solutions.
-
-<img align="right" alt="Coding" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-### 🧑‍💻 Personal Highlights:
-
-- 👨‍🎓 **Education**: Pursuing a **B.Tech in Computer Engineering**.
-- 💻 **Proficient in**: 
-  - **Programming Languages**: C, C++, Python, Java.
-  - **Web Development**: HTML, CSS, JavaScript, Full Stack Development.
-- 🛠️ **Current Work**: 
-  - Data Structures and Algorithms (DSA) using C++, & Java .
-  - Designing user-friendly websites.
-- 🌟 **Key Projects**: Built a responsive website for health and well-being.
-- 🌱 **Learning Goals**:
-  - Advanced **JavaScript** and **Node.js** for Full Stack Development.
-  - **Machine Learning (AI-ML)** concepts.
-- 🧠 **Interests**: Exploring new technologies, competitive coding, and solving real-world problems.
-- 💬 **Reach Out**: Feel free to ask me anything; I am always open to discussions and collaborations.
-
-### 🛠️ Skills:
-
-- **Languages**: 
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="40" alt="C" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="40" alt="C++" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="Python" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" alt="Java" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" alt="JavaScript" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" alt="HTML5" /></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" alt="CSS3" /></a>
-
-- **Web Development**: HTML, CSS, JavaScript, React.
-- **Tools**: Git, GitHub, VS Code.
-- **Technologies**: AI/ML Basics, REST APIs, Full Stack Web Development.
-
----
-
-### 📊 GitHub Stats
-
-<!-- Amol's GitHub Stats -->
-[Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amollende12&show_icons=true&theme=radical)
----
-
-### 🏆 Achievements:
-
-- 🌟 **Problem Solver**: Solved 200+ problems on LeetCode and HackerRank.
-- 🏅 **Certifications**: Advanced Python, JavaScript for Web Development.
-
----
-
-### 🔗 Connect with Me:
-
-<a href="https://www.linkedin.com/in/amol-lende-247b57288/" target="_blank">
-
-
-Let's collaborate and create amazing solutions together!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+<p align="center"><b>⭐ Don't forget to star my repositories! ⭐</b></p>
