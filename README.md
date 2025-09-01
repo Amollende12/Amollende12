@@ -146,7 +146,7 @@ I am Amol, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech en
 <p align="center">
   <a href="https://www.linkedin.com/in/amol-lende/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://x.com/Amollende12"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:amollende12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="mailto:amollende02@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://www.instagram.com/amollende12/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
